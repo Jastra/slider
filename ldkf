@@ -1,0 +1,42 @@
+[33mcommit 3c1134eb857ea8bff15156390b4b000fc878b6c1[m
+Author: Federica Galli <jastra89@gmail.com>
+Date:   Wed Feb 4 23:55:30 2015 +1100
+
+    deleting 2 files
+
+[33mcommit c535edfb8632ab088e35a42b226d286b31ff3dde[m
+Merge: b7c8321 31f5cd2
+Author: Federica Galli <jastra89@gmail.com>
+Date:   Wed Feb 4 23:51:14 2015 +1100
+
+    Merge branch 'master' of https://github.com/Jastra/slider
+
+[33mcommit b7c83210f9e722f4690b87dc53611301a49654c3[m
+Author: Federica Galli <jastra89@gmail.com>
+Date:   Wed Feb 4 23:50:16 2015 +1100
+
+    editing of js
+
+[33mcommit 31f5cd26e95bca6e79f041ddc4ae867ef1e81256[m
+Author: Federica Galli <jastra89@gmail.com>
+Date:   Wed Feb 4 23:46:31 2015 +1100
+
+    Create README.md
+
+[33mcommit 37635b946959eb6d8d3b6dd50a2c214acd5dfda4[m
+Author: Federica Galli <jastra89@gmail.com>
+Date:   Wed Feb 4 17:37:28 2015 +1100
+
+    adding files
+
+[33mcommit aa13bdef28b25d51fe3ef1cb1603d1f6059af04c[m
+Author: Federica Galli <jastra89@gmail.com>
+Date:   Wed Feb 4 17:33:21 2015 +1100
+
+    Commit of index.html
+
+[33mcommit ed65b36303b7505d921f0a94440b88c90ea2fc74[m
+Author: Federica Galli <jastra89@gmail.com>
+Date:   Wed Feb 4 16:46:45 2015 +1100
+
+    :lollipop: Added .gitattributes & .gitignore files
