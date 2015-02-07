@@ -46,6 +46,6 @@ For example <code>single-slide imageTextSlide slide<strong>1</strong></code>.
 </p>
 <h4>active (class)</h4>
 <p>TThe class active, will indicate to you which slide is visible. In my example, the class is on the first slide, but if you want to start from a different slide, just add active to a different one.
-Remember to move it onto the corresponding button on the navbar.
-<code>navbar</code>
+Remember to move it onto the corresponding button on the
+<code>navbar</code>.
 </p>
