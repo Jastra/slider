@@ -10,7 +10,7 @@ After a lot of research I decided to create one by myself, it was faster than ta
 <li><strong>imageTextSlide</strong> this is the layout for image and text</li>
 <li><strong>onlyTextSlide</strong> this is a layout with only text</li>
 </ul>
-</p>
+</p> 
 <h4>imageSlide</h4>
 In this layout you can only use the <code>img</code> tag. Feel free to add any further class or style with a personalized <code>css</code>.
 </p>
